@@ -37,6 +37,6 @@ terraform.rc
 # Manual edits may be lost in future updates.
 
 *.pem
-rootkey.csv
+*.csv
 
 
